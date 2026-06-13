@@ -1,0 +1,5 @@
+Contact: mailto:ryuhigashi@hotmail.com
+Expires: 2027-01-01T00:00:00.000Z
+Preferred-Languages: pt-BR, en
+# Substituir <DOMINIO> pela URL de produção do Vercel (VITE_APP_URL)
+Scope: https://<DOMINIO>.vercel.app
