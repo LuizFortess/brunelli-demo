@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A72"/>
+      <stop offset="100%" stop-color="#0C1B3A"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="5" fill="url(#bg)"/>
+  <!-- Colunas Brunelli (simétricas, centro mais alto) -->
+  <rect x="4"  y="16" width="3" height="13" rx="1" fill="white" opacity="0.95"/>
+  <rect x="8"  y="12" width="3" height="17" rx="1" fill="white" opacity="0.95"/>
+  <rect x="12" y="8"  width="4" height="21" rx="1" fill="white" opacity="0.95"/>
+  <rect x="17" y="12" width="3" height="17" rx="1" fill="white" opacity="0.95"/>
+  <rect x="21" y="16" width="3" height="13" rx="1" fill="white" opacity="0.95"/>
+  <!-- Linha dourada base -->
+  <rect x="3"  y="28" width="22" height="2" rx="1" fill="#D4AB52"/>
+</svg>
