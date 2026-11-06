@@ -1,1 +1,0 @@
-import{j as o}from"./query-DZfwEAAw.js";function n({max:e=200,title:t,style:r,children:i}){return o.jsx("div",{title:t,style:{maxWidth:e,overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap",...r},children:i})}export{n as T};
